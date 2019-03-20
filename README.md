@@ -9,7 +9,7 @@ Christos Gatzidisb
 Sony Interactive Entertainment Euro R&D
 Bournemouth University
 
-##Intro
+## Intro
 
 Terrain
 For games, simulations, or movies. (outdoor environtment)
@@ -31,7 +31,7 @@ collaboration with Sony Interactive Entertainment Euro Research and Development
 
 
 
-##Voxel Grammar
+## Voxel Grammar
 
 Symbols
 A rule’s symbol is a list of conditions in the form of an I J × × K array that determines whether the rule’s transformation will be executed.
