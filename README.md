@@ -35,20 +35,20 @@ collaboration with Sony Interactive Entertainment Euro Research and Development
 
 Symbols
 A rule’s symbol is a list of conditions in the form of an I J × × K array that determines whether the rule’s transformation will be executed.
-![Image of game](images/symbol operators.png)
+![Image of game](images/symbol-operators.png)
 
 Transforms
 A transformation consists of a list of manipulations in an array with the same dimensions as the rule’s symbol and is only applied to the voxel grid when the symbol’s criteria have been fulfilled.
-![Image of game](images/transform operators.png)
+![Image of game](images/transform-operators.png)
 
-![Image of game](images/transform sample.png)
+![Image of game](images/transform-sample.png)
 
-![Image of game](images/caves ruleset.png)
+![Image of game](images/caves-ruleset.png)
 
-![Image of game](images/overhangs ruleset.png)
+![Image of game](images/overhangs-ruleset.png)
 
-![Image of game](images/cave results.png)
+![Image of game](images/cave-results.png)
 
-![Image of game](images/overhang results.png)
+![Image of game](images/overhang-results.png)
 
-![Image of game](images/time results.png)
+![Image of game](images/time-results.png)
