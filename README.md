@@ -1,34 +1,24 @@
 # assignment-2-paper-review-AgusPriyono
 
-Procedural feature generation for volumetric terrains using voxel grammars
+Player-Adaptive Spelunky Level Generation
 
-Rahul Deya
-Jason G. Doiga
-Christos Gatzidisb
+David Stammer (Hochschule Mannheim) david.stammer@googlemail.com 
+Tobias G¨unther (Cooperative State University Baden-Wuertemberg) tobias.guenther@dhbw-mannheim.de
+Mike Preuss (WWU M¨unster, Germany) mike.preuss@wi.uni-muenster.de
 
-Sony Interactive Entertainment Euro R&D
-Bournemouth University
+## STRUCTURE
+- ABSTRACT
+- INTRODUCTION
+- RELATED PCG AND DDA WORKS
+- SPELUNKY
+- PLAYER SURVEY CONCERNING DDA
+- DIFFICULTY ESTIMATION AND PLAYING STYLE In
+- CONTROLLED LEVEL GENERATION
+- USER STUDY 
+- CONCLUSION
+- REFERENCES
 
-## Structure
-- Abstract
-- Introduction
-- Related Works
-- - Terrain 
-- - Voxel Management
-- - Rule-based Procedural Generation
-- Voxel Grammar
-- - Rules
-- - - Symbols
-- - - Transforms
-- - - Rule Selection
-- - Grammar Construction
-- - Derivation Process
-- Method and Implementation
-- - Cliff and Overhangs
-- - Caves
-- - Surface Extraction
-- Result 
-- Conclusion 
+
 
 ## Intro
 
