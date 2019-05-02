@@ -2,9 +2,9 @@
 
 Player-Adaptive Spelunky Level Generation
 
-David Stammer (Hochschule Mannheim) david.stammer@googlemail.com 
-Tobias G¨unther (Cooperative State University Baden-Wuertemberg) tobias.guenther@dhbw-mannheim.de
-Mike Preuss (WWU M¨unster, Germany) mike.preuss@wi.uni-muenster.de
+- David Stammer (Hochschule Mannheim) david.stammer@googlemail.com 
+- Tobias G¨unther (Cooperative State University Baden-Wuertemberg) tobias.guenther@dhbw-mannheim.de
+- Mike Preuss (WWU M¨unster, Germany) mike.preuss@wi.uni-muenster.de
 
 ## STRUCTURE
 - ABSTRACT
@@ -18,8 +18,25 @@ Mike Preuss (WWU M¨unster, Germany) mike.preuss@wi.uni-muenster.de
 - CONCLUSION
 - REFERENCES
 
+## Abstract
+- PCG has been applied to many games today, so it helps level designers to be creative
+- Generate level by adjusting the level of difficulty by applying the rule for its adaptive
+- The approach is Experience-Driven PCG approach, where generating from the level depends on the experience of the user
+- Based on surveys, most people appreciate adaptation, the more important thing is an easy game to play at any time
+
+## Intro
+- One of the many studies on AI in games, relates to almost all topics about AI in games, and is increasingly being applied to commercial games [1]
+- Spelunky games currently have implemented auto generation, but it does not depend on player performance, and can be frustrating
+- Choose the right level and according to the style of the player
+- Baghdati [2] makes PCG for spunun generating levels use GA with the Search-based PCG (SBPCG) paradigm [3], but without using DDA (Dynamic Difficulty Adjustment)
+- The application of simple adaptation is based on manual rule adjustments, so the process of generating levels is faster
+- Using the initial survey, regarding DDA
+
+## PCG and DDA
+- DDA is part of the game changed to fit the player, especially the level of difficulty
 
 
+Spelunky
 ## Intro
 
 Terrain
