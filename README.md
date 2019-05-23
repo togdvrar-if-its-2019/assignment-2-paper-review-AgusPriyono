@@ -70,28 +70,6 @@ Player-Adaptive Spelunky Level Generation
 - ”When the player has solved all riddles of a level, the number and difficulty of riddles is increased in the next level”
 - 
 
-Terrain
-- Component for games, simulations, or movies (outdoor environtment)
-- Fully automatic or semi-automatic method
 
-Voxel Representation
-- Can create rich object like caves and overhangs
-
-PCG
-- PCG is a procedural system to create object like texture, geometry, or animation.
-- Need for eficient in process, effort, and time (cost effect)
-- Help designer to design
-
-Voxel-based approach 
-- The presented method expands the concept of shape grammars to a volumetric space
-
-Research 
-- Introduce voxel-based approach for generating overhangs and caves
-- Create ruleset implemented to voxel
-- Create surface using surface net algorithm
-- present timings and memory usage from our results for the generation of the voxel data using different rulesets plus the performance statistics of our GPU surface extraction algorithm.
-- Collaboration with Sony Interactive Entertainment Euro Research and Development
-- Using Phyreengine
-- Supported by Nvidia (Titan GPU)
 
 
